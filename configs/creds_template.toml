@@ -1,0 +1,5 @@
+
+# add in your amazon username (email) and password as values
+# keep .toml in configs/
+"user" = ""
+"password" = ""
